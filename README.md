@@ -20,3 +20,12 @@ docker compose run -e RAILS_ENV=test web bin/rails ucb_ldap_sync:db:refresh
 ```
 docker compose run -e RAILS_ENV=test web bin/rails test -p
 ```
+
+# Run Sync
+
+```
+docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::OrgUnits::LdapSyncService.sync"
+docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::OrgUnit.count"
+docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::UcbPeople::LdapSyncService.sync"
+docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::UcbPerson.count"
+```
