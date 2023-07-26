@@ -28,4 +28,5 @@ docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::OrgUnits::
 docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::OrgUnit.count"
 docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::UcbPeople::LdapSyncService.sync"
 docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::UcbPerson.count"
+docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::UcbPerson.find_by(kerberos_principal: 'runner')"
 ```

@@ -11,6 +11,7 @@ gem "net-ldap", "~> 0.17.0"
 gem "pg", "~> 1.4.3"
 gem "paper_trail", "~> 13.0.0"
 gem "active_attr", "~> 0.15.3"
+gem "amazing_print", "~> 1.4.0"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
