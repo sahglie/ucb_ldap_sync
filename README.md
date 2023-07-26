@@ -25,8 +25,8 @@ docker compose run -e RAILS_ENV=test web bin/rails test -p
 
 ```
 docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::OrgUnits::LdapSyncService.sync"
-docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::OrgUnit.count"
+docker compose run -e RAILS_ENV=development web bin/rails r "ap OrgData::OrgUnit.count"
 docker compose run -e RAILS_ENV=development web bin/rails r "OrgData::UcbPeople::LdapSyncService.sync"
-docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::UcbPerson.count"
-docker compose run -e RAILS_ENV=development web bin/rails r "pp OrgData::UcbPerson.find_by(kerberos_principal: 'runner')"
+docker compose run -e RAILS_ENV=development web bin/rails r "ap OrgData::UcbPerson.count"
+docker compose run -e RAILS_ENV=development web bin/rails r "ap OrgData::UcbPerson.find_by(kerberos_principal: 'runner')"
 ```
