@@ -10,4 +10,7 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # Add more helper methods to be used by all tests here...
+  def ucb_people(fixture_name)
+    org_data_ucb_people(fixture_name)
+  end
 end

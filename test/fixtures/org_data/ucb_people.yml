@@ -1,0 +1,282 @@
+################################################################################
+# Generic People
+################################################################################
+cio:
+  calnet_uid: 1015674
+  kerberos_principal: thecio
+  first_name: The
+  last_name: CIO
+  display_name: The CIO
+  email: thecio@berkeley.edu
+  official_email: thecio@berkeley.edu
+  dn: uid=1015674,ou=people,dc=berkeley,dc=edu
+  org: VRMGT
+  ou: people
+  affiliations_summary: {"employee?": true, "student?": false, "affiliate?": false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+iso_manager:
+  calnet_uid: 4353
+  kerberos_principal: iso_manager
+  first_name: ISO
+  last_name: Manager
+  display_name: ISO Manager
+  email: ico-manager@berkeley.edu
+  official_email: iso-manager@berkeley.edu
+  dn: uid=4353,ou=people,dc=berkeley,dc=edu
+  org: UBOSS
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+################################################################################
+# SPAs
+################################################################################
+app_sock:
+  calnet_uid: 1840228
+  kerberos_principal: spa-app_sock
+  first_name: App_sock
+  last_name: SP_Account
+  display_name: App_sock SP_Account
+  email: app_sock@berkeley.edu
+  official_email: app_sock@berkeley.edu
+  org:
+  ou: people
+  dn: uid=1840228,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":false, "student?":false, "affiliate?":false}
+  affiliations:
+    - AFFILIATE-TYPE-SPA
+
+iso_spa:
+  calnet_uid: 12012167
+  kerberos_principal: spa-iso
+  first_name: Information Security
+  last_name: Office
+  display_name: Information Security Office
+  email: iso@berkeley.edu
+  official_email: iso@berkeley.edu
+  ou: people
+  org:
+  dn: uid=12012167,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":false,"student?":false,"affiliate?":false}
+  affiliations:
+    - AFFILIATE-TYPE-SPA
+
+sock_developers_spa:
+  calnet_uid: 1803386
+  kerberos_principal: spa-sock-developers
+  first_name: Sock-developers
+  last_name: SP_Account
+  display_name: Sock-developers SP_Account
+  email: sock-developers@berkeley.edu
+  official_email: sock-developers@berkeley.edu
+  org:
+  ou: people
+  dn: uid=1803386,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":false,"student?":false,"affiliate?":false}
+  affiliations:
+   - AFFILIATE-TYPE-SPA
+
+guest:
+  calnet_uid: 2
+  kerberos_principal: guest
+  first_name: Guest
+  last_name: Guest
+  display_name: Guest Guest
+  email: guest@berkeley.edu
+  official_email: guest@berkeley.edu
+  org:
+  ou: people
+  dn: uid=2,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":false, "student?":false, "affiliate?":false}
+  affiliations:
+    - AFFILIATION-TYPE-GUEST
+  
+################################################################################
+# UCB People
+################################################################################
+ctcarlson:
+  calnet_uid: 741819
+  kerberos_principal: ctcarlson
+  first_name: Craig
+  last_name: Carlson
+  display_name: Craig Carlson
+  email: ctcarlson@berkeley.edu
+  official_email: ctcarlson@berkeley.edu
+  ou: people
+  dn: uid=741819,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+runner:
+  calnet_uid: 61065
+  kerberos_principal: runner
+  first_name: Steven
+  last_name: Hansen
+  display_name: Steven Hansen
+  email: runner@berkeley.edu
+  official_email: runner@berkeley.edu
+  dn: uid=61065,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?": true, "student?":false, "affiliate?":false}
+  affiliations:
+    - AFFILIATE-TYPE-ADVCON-ATTENDEE
+    - EMPLOYEE-TYPE-STAFF
+    - FORMER-STUDENT
+
+jakef:
+  calnet_uid: 83756
+  kerberos_principal: jakef
+  first_name: Jake
+  last_name: Harwood
+  display_name: Jake F Harwood
+  email: jakef@berkeley.edu
+  official_email: jakef@berkeley.edu
+  dn: uid=83756,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+akhenry:
+  calnet_uid: 249557
+  kerberos_principal: akhenry
+  first_name: Allison
+  last_name: Henry
+  display_name: Allison Henry
+  email: ciso@berkeley.edu
+  official_email: akhenry@berkeley.edu
+  dn: uid=249557,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - AFFILIATE-TYPE-ADVCON-ALUMNUS
+    - EMPLOYEE-TYPE-STAFF
+    - FORMER-STUDENT
+
+mikeh:
+  calnet_uid: 87100
+  kerberos_principal: mikeh
+  first_name: Mike
+  last_name: Howard
+  display_name: Mike Howard
+  email: mhoward@berkeley.edu
+  official_email: mhoward@berkeley.edu
+  dn: uid=87100,ou=people,dc=berkeley,dc=edu
+  org: JNWWS
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+mbotmiller:
+  calnet_uid: 1011397
+  kerberos_principal: mbotmiller
+  first_name: Micah
+  last_name: Bot-Miller
+  display_name: Micah Bot-Miller
+  email: mbotmiller@berkeley.edu
+  official_email: mbotmiller@berkeley.edu
+  dn: uid=1011397,ou=people,dc=berkeley,dc=edu
+  org: AZITS
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+mqs:
+  calnet_uid: 278074
+  kerberos_principal: mqs
+  first_name: Miguel
+  last_name: Quinonez-Skinner
+  display_name: Miguel Quinonez-Skinner
+  email: mqs@berkeley.edu
+  official_email: mqs@berkeley.edu
+  dn: uid=278074,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+chedwards:
+  calnet_uid: 312152
+  kerberos_principal: chedwards
+  first_name: Chad
+  last_name: Edwards
+  display_name: Chad Edwards
+  email: chedwards@berkeley.edu
+  official_email: chedwards@berkeley.edu
+  dn: uid=312152,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+mikejones:
+  calnet_uid: 740295
+  kerberos_principal: mikejones
+  first_name: Michael
+  last_name: Jones
+  display_name: Mike Jones
+  email: mikejones@security.berkeley.edu
+  official_email: mikejones@security.berkeley.edu
+  ou: people
+  dn: uid=740295,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+mkraitchman:
+  calnet_uid: 2559
+  kerberos_principal: mkraitchman
+  first_name: Mark
+  last_name: Kraitchman
+  display_name: Mark Kraitchman
+  email: mark@eccs.berkeley.edu
+  official_email: mark@eecs.berkeley.edu
+  org: EHEEC
+  ou: people
+  dn: uid=2559,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+kaquino:
+  calnet_uid: 1083779
+  kerberos_principal: kaquino
+  first_name: Karl
+  last_name: Aquino
+  display_name: Karl Aquino
+  email: kaquino@berkeley.edu
+  official_email: kaquino@berkeley.edu
+  org: VRSEC
+  ou: people
+  dn: uid=1083779,ou=people,dc=berkeley,dc=edu
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF
+
+julieg:
+  calnet_uid: 1642551
+  kerberos_principal: julieg
+  first_name: Julie
+  last_name: Goldstein
+  display_name: Julie Goldstein
+  email: julieg@berkeley.edu
+  official_email: julieg@berkeley.edu
+  dn: uid=1642551,ou=people,dc=berkeley,dc=edu
+  org: VRSEC
+  ou: people
+  affiliations_summary: {"employee?":true, "student?":false, "affiliate?":false}
+  affiliations:
+    - EMPLOYEE-TYPE-STAFF

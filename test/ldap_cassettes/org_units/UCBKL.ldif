@@ -1,0 +1,7 @@
+dn: ou=UCBKL,ou=Org Units,dc=berkeley,dc=edu
+berkeleyeduorgunithierarchystring: 
+description: UC Berkeley Campus
+objectclass: top
+objectclass: berkeleyEduOrgUnit
+objectclass: organizationalunit
+ou: UCBKL

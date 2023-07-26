@@ -1,0 +1,9 @@
+dn: ou=COENG,ou=COLLE,ou=UCBKL,ou=Org Units,dc=berkeley,dc=edu
+berkeleyeduorgunithierarchystring: UCBKL-COLLE-COENG
+berkeleyeduorgunitparent: UCBKL
+berkeleyeduorgunitparent: COLLE
+description: College of Engineering
+objectclass: top
+objectclass: berkeleyEduOrgUnit
+objectclass: organizationalunit
+ou: COENG

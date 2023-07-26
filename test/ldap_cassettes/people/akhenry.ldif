@@ -1,0 +1,162 @@
+dn: uid=249557,ou=people,dc=berkeley,dc=edu
+berkeleyeduaffiliations: FORMER-STUDENT
+berkeleyeduaffiliations: EMPLOYEE-TYPE-STAFF
+berkeleyeduaffiliations: AFFILIATE-TYPE-ADVCON-ALUMNUS
+berkeleyeduafftypes: ALUMNUS
+berkeleyedualternateid: akhenry@berkeley.edu
+berkeleyeducalnetidupdatedflag: true
+berkeleyeduconfidentialflag: false
+berkeleyeduemailrelflag: true
+berkeleyedufirstname: Allison
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages-mods:IT,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages-mods:staff:staff-mods,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages-mods:staff:staff-mods_systemOfRecord,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages-mods:staff:staff-mods_systemOfRecordAndIncludes,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages:staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:all,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:staff:all,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:staff:professional,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:org:isp:isp-admin,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:all,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:current-campus-community,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:auth-default,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:webapp-default:webapp-default-base-allow-not-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:webapp-default:webapp-default-base-affiliations,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:webapp-default:webapp-default-base-plus-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:scf_sticigui:scf_sticigui-auto-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:org:libr:exproxy:ezproxy_allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:cat:SecuritySource,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:org:libr:exproxy:ezproxy_access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:cat:QA:Security,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:sis:CollegeNet-Allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:sis:collegenet-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:guests:auth_systemOfRecord,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:guests:auth_systemOfRecordAndIncludes,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:webapp-default:webapp-default-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:swcl:Matlab:AG-Matlab_Ineligible_Fac-Staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:all-emp,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:CG-Dept-Admins:Dept-Org-Admins,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:CG-Dept-Admins:CG-Dept-Admins,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:staff:all-staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:2StepTest:Allow2StepViewTest,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:calnet-spa-access:calnet-spa-app-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:org:libr:ezproxy:ezproxy_access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:2Step:Allow2StepView,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:2Step:Enforce2Step,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:fom-cchem:fom-cchem-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:2StepTest:Enforce2StepTest,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:2Step:Require2Step,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Employees-and-HCM-Affiliates-no-retirees,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:cat:Security,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:box_app:box_app-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:adobecc:adobecc-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:emp-aff-stu-no-retirees,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:rans:Remote-Access-Full,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:rans:Remote-Access-Core,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:rans:Remote-Access-Restricted,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:students:former-students,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:dept:L2-Control-Unit-groups:UCBKL-CAMSU,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:dept:L3-Division-groups:UCBKL-CAMSU-VCBAS,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:dept:L4-Department-groups:UCBKL-CAMSU-VCBAS-VRIST,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages:staff-non-represented,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:HR-Curated:Non-represented_Staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Bargaining-Unit:B-U-Emp-Groups:BU-99,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:g_suite:g_suite-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Employees-Students-UCPath-Affiliates,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Employees-and-UCPath-Affiliates,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages:it-staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:managers,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages:managers,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:wifi:WiFi-Users,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:wifi:wifi-infosec-admin,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:professional-employees,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:imagine_content:imagine_content-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calmessages:All_Supervisors_and_Managers,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:titlecode:groups:TC-000544,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:zoom:zoom-sponsored-eligible,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:cat:All-CAT-Users,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:zoom:zoom-licensed-productivity-suite,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-abuse-berkeley,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-bsecure,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-calnet-dev-emails,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-calnet-sendgrid,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-calnetemailtesting,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-ciso,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-cybertraining,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-earlypostings,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-ediscovery,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-isp-bconnected-reports,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-isp-ib-ispquery,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-isp-ib-ispupdate,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-isp-users,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-ispshare,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-itpolicy,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-pdscontracts,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-rdm-list,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-security,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-security-assessment,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-securitydev,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-securitypolicy,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-securitytest,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-securityweb,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-sns-ops,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-symantec,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:zoom_berkeley:zoom_berkeley-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-security_docusign,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:Has-Direct-Reports,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:Supervisors-Managers,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:employees:all-supervisors-managers-other-management,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:all-accounts-people-ou,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:frwl:PAN-UserID:userid-rans-users,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Job_Function:Job_Function-groups:JFunc-418,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:Job_Family:Job_Family-groups:JFam-J080,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:CTO:CTO-groups:CTO-M10,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-research-cybersecurity,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:avaya-users:Avaya_Users,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:bcon:mybconnected:admins:bconn_admin_ro,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:lib_geodata:lib_geodata-access,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:org:CISO:ciso-allstaff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:frwl:PAN-UserID:userid-dept-VRIST:userid-dept-VRIST-ISO-staff,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:frwl:PAN-UserID:userid-dept-VRIST:userid-dept-VRIST-ISO-all,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-calnet-tv,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet:jeff-folder:sync-large-google-group,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:official:dept:DepartmentNumber-groups:DN-VRSEC,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:bcon:adobe_console_licensing:adobe-console-employees,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:wifi:WiFi-Pilot,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-iso,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-calnet-systems,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:frwl:PAN-UserID:userid-dept-JCCNS:userid-dept-JCCNS-clearpass-admins,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-is-12-unitheads-caos,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:auth-cas:lib_pitchbook:lib_pitchbook-allow,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:tabl:ISOCALVIZ:TABL_ISOCALVIZ_Leadership,ou=campus groups,dc=berkeley,dc=edu
+berkeleyeduismemberof: cn=edu:berkeley:app:calnet-spa:group-spa-dmca,ou=campus groups,dc=berkeley,dc=edu
+berkeleyedukerberosprincipalstring: akhenry
+berkeleyedulastname: Henry
+berkeleyeduofficialemail: akhenry@berkeley.edu
+berkeleyeduprimarydeptunit: VRSEC
+berkeleyeduunithrdeptname: Information Security Office
+cn: Henry, Allison
+departmentnumber: VRSEC
+displayname: Allison Henry
+givenname: Allison
+l: Berkeley
+labeleduri: http://security.berkeley.edu
+mail: ciso@berkeley.edu
+mobile: +1 510 847-5349
+o: University of California, Berkeley
+objectclass: top
+objectclass: eduPerson
+objectclass: inetorgperson
+objectclass: berkeleyEduPerson
+objectclass: organizationalperson
+objectclass: person
+objectclass: ucEduPerson
+ou: people
+postaladdress: 2850 Telegraph Ave #221$Berkeley, CA 94705
+postalcode: 94705
+sn: Henry
+st: CA
+street: 2850 Telegraph Ave #221
+telephonenumber: +1 510 664-9194
+title: Chief Information Security Officer
+uid: 249557

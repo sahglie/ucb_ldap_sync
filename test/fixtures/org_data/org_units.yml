@@ -1,0 +1,120 @@
+ucbkl:
+  code: UCBKL
+  name: UC Berkeley Campus
+  level: 1
+  hierarchy: UCBKL
+
+camsu:
+  code: CAMSU
+  name: Campus Support
+  level: 2
+  hierarchy: UCBKL.CAMSU
+
+colle:
+  code: COLLE
+  name: Colleges
+  level: 2
+  hierarchy: UCBKL.COLLE
+
+schol:
+  code: SCHOL
+  name: Schools
+  level: 2
+  hierarchy: UCBKL.SCHOL
+
+sclaw:
+  code: SCLAW
+  name: School of Law
+  level: 3
+  hierarchy: UCBKL.SCHOL.SCLAW
+
+scsim:
+  code: SCSIM
+  name: School of Information
+  level: 3
+  hierarchy: UCBKL.SCHOL.SCSIM
+  
+coeng:
+  code: COENG
+  name: College of Engineering
+  level: 3
+  hierarchy: UCBKL.COLLE.COENG
+  
+vcbas:
+  code: VCBAS
+  name: Administration
+  level: 3
+  hierarchy: UCBKL.CAMSU.VCBAS
+  
+vcuga:
+  code: VCUGA
+  name: Student Affairs
+  level: 3
+  hierarchy: UCBKL.CAMSU.VCUGA
+  
+vrist:
+  code: VRIST
+  name: Info Services & Technology
+  level: 4
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST
+  
+ukhds:
+  code: UKHDS
+  name: Housing & Dining Services
+  level: 4
+  hierarchy: UCBKL.CAMSU.VCUGA.UKHDS
+  
+uboss:
+  code: UBOSS
+  name: SAIT Information Tech
+  level: 4
+  hierarchy: UCBKL.CAMSU.VCUGA.UBOSS
+  
+eheec:
+  code: EHEEC
+  name: Elec Engr & Computer Sc
+  level: 4
+  hierarchy: UCBKL.COLLE.COENG.EHEEC
+  
+azits:
+  code: AZITS
+  name: IT Client Services
+  level: 5
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.AZITS
+  
+jfavc:
+  code: JFAVC
+  name: Business Operations
+  level: 5
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.JFAVC
+  
+vrsec:
+  code: VRSEC
+  name: Information Security Office
+  level: 5
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.VRSEC
+  
+jnwws:
+  code: JNWWS
+  name: Infrastructure Services
+  level: 5
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.JNWWS
+  
+forec:
+  hierarchy: UCBKL.CAMSU.VCUGA.FOREC
+  code: FOREC
+  name: Recreational Sports
+  level: 4
+
+## remove these they no longer exist
+jjcns:
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.JJCNS
+  code: JJCNS
+  name: Telecom
+  level: 5
+
+jiccs:
+  hierarchy: UCBKL.CAMSU.VCBAS.VRIST.JICCS
+  code: JICCS
+  name: Architectr Platform Integratn
+  level: 5

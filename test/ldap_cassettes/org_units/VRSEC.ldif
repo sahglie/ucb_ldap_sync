@@ -1,0 +1,11 @@
+dn: ou=VRSEC,ou=VRIST,ou=VCBAS,ou=CAMSU,ou=UCBKL,ou=Org Units,dc=berkeley,dc=edu
+berkeleyeduorgunithierarchystring: UCBKL-CAMSU-VCBAS-VRIST-VRSEC
+berkeleyeduorgunitparent: UCBKL
+berkeleyeduorgunitparent: CAMSU
+berkeleyeduorgunitparent: VCBAS
+berkeleyeduorgunitparent: VRIST
+description: Information Security Office
+objectclass: top
+objectclass: berkeleyEduOrgUnit
+objectclass: organizationalunit
+ou: VRSEC
