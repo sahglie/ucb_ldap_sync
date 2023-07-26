@@ -1,0 +1,38 @@
+version: '3.9'
+
+volumes:
+  ucb_ldap_sync_db:
+    driver: local
+  node_modules:
+    driver: local
+
+services:
+  db:
+    image: postgres:14
+    ports:
+      - "5432:5432"
+    environment:
+      - PGDATA=/var/lib/postgresql/data/pgdata
+      - POSTGRES_USER=app_ucb_ldap_sync
+      - POSTGRES_HOST_AUTH_METHOD=trust
+      - TZ=America/Los_Angeles
+      - PGTZ=US/Pacific
+    volumes:
+      - ucb_ldap_sync_db:/var/lib/postgresql/data/pgdata
+
+  web:
+    build:
+      context: .
+      target: development
+    image: iso/ucb-ldap-sync-development:latest
+    ports:
+      - '3000:3000'
+    command: bin/entrypoints/web.sh
+    environment:
+      - RAILS_ENV=development
+      - RACK_ENV=development
+    volumes:
+      - .:/usr/src/app
+      - node_modules:/usr/src/app/node_modules
+    depends_on:
+      - db

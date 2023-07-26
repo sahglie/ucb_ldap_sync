@@ -1,0 +1,15 @@
+.git*
+.git/**
+log/*
+tmp/**
+Dockerfile
+README.md
+docker-compose.yml
+docker-compose-ci.yml
+node_modules
+config/master.key
+config/*.key
+config/*.cert
+config/credentials.yml.enc
+config/*.cer
+.env.*
